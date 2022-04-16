@@ -13,6 +13,14 @@ If that does not resolve your issue, please post to the [discussion board for th
 
 NOTE: The installation was tested using node v14.15.5 and npm 6.14.11.
 
+
+## PREREQUISITES
+
+0) Install nodejs 
+
+1) Install angular-cli globally
+	npm i -g @angular/cli
+
 ## INSTALLING THE CODE
 
 The following are detailed instructions for installing the code so you can code along with the course.
